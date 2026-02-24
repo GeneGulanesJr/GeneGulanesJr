@@ -10,7 +10,6 @@
 * 🛠️ Architecting with **OpenSpec** to ensure high-fidelity, production-ready AI code
 * 🧠 Deep diving into **Agentic Orchestration** and **Long-running AI workflows**
 * 🖥️ Portfolio: [genegulanesjr.com](https://www.genegulanesjr.com/)
-* ⚡ Fun fact: I'm a simple man—I like short-haired chinita girls with eyeglasses.
 
 ---
 
