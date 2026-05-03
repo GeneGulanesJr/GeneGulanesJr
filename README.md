@@ -1,6 +1,4 @@
 # Hi 👋 My name is Gene E. Gulanes Jr
-### Full Stack AI Engineer | Specialized in Voice AI & Healthcare Tech
-**AWS Certified | Next.js Expert | AI Agent Architect**
 
 ---
 
