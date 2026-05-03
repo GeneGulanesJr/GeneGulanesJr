@@ -4,7 +4,6 @@
 
 ### 🚀 About Me
 * 🌍 Based in **Davao City, Philippines**
-* 🏢 Currently building AI-driven conversational agents at **Curacall (US Flexi)**
 * 🛠️ Architecting with **OpenSpec** to ensure high-fidelity, production-ready AI code
 * 🧠 Deep diving into **Agentic Orchestration** and **Long-running AI workflows**
 * 🖥️ Portfolio: [genegulanesjr.com](https://www.genegulanesjr.com/)
