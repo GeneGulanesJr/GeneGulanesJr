@@ -6,7 +6,6 @@
 * 🌍 Based in **Davao City, Philippines**
 * 🧠 Building **agentic AI tooling** — persistent memory layers, browser automation, and code intelligence for LLM-powered coding agents
 * 🛠️ Architecting with **Pi** — an extensible coding agent framework — shipping custom extensions for production workflows
-* 🔬 Benchmarking AI agents on **SWE-Bench Verified** (500 real-world Python bug-fix tasks) to measure and improve agentic reliability
 
 ---
 
@@ -15,7 +14,6 @@
 **AI & Agent Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Pi_Agent-0891b2?style=for-the-badge&logo=openai&logoColor=white" alt="Pi Coding Agent" />
-  <img src="https://img.shields.io/badge/SWE_Bench-4B8BBE?style=for-the-badge&logo=openai&logoColor=white" alt="SWE-Bench" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/SearXNG-305EFF?style=for-the-badge&logo=searxng&logoColor=white" alt="SearXNG" />
   <img src="https://img.shields.io/badge/Retell_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Retell AI" />
@@ -51,7 +49,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**PiMemoryExtension**](https://github.com/GeneGulanesJr/PiMemoryExtension) | Persistent memory layer for Pi coding agent — SQLite-backed, zero cloud deps. Auto-injects context, detects decisions, syncs trust with code changes. Code analysis (call graphs, dead code, complexity), doc indexing, SWE-Bench benchmarking. 244 tests. |
+| [**PiMemoryExtension**](https://github.com/GeneGulanesJr/PiMemoryExtension) | Persistent memory layer for Pi coding agent — SQLite-backed, zero cloud deps. Auto-injects context, detects decisions, syncs trust with code changes. Code analysis (call graphs, dead code, complexity), doc indexing. 244 tests. |
 | [**PiArgus**](https://github.com/GeneGulanesJr/PiArgus) | Two-tier browser automation for Pi — light tier (Obscura/V8, ~30MB) for fast fetches, heavy tier (smolvm+Chromium) for screenshots/clicks/GPU rendering. SearXNG metasearch integration. Named after Argus Panoptes. |
 | [**Aelvyril**](https://github.com/GeneGulanesJr/Aelvyril) | Local desktop privacy gateway for AI workflows — intercepts sensitive data leaks at clipboard/prompt level, pseudonymizes with typed tokens, proxies to upstream LLMs via OS keychain-backed credentials. |
 | [**OperationSpectre**](https://github.com/GeneGulanesJr/OperationSpectre) | CLI toolbox for sandboxed security & dev tool execution — 50+ tools (nmap, sqlmap, ffuf, nuclei, hashcat, hydra…) in a Docker sandbox with a clean CLI interface. |
